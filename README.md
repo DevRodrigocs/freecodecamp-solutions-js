@@ -1,0 +1,96 @@
+---
+
+FreeCodeCamp JavaScript Solutions
+
+This repository contains JavaScript exercise solutions from FreeCodeCamp, along with personal practice exercises.
+The goal is to record, organize, and track JS learning from beginner to advanced levels.
+
+New exercises will be added whenever possible.
+
+
+---
+
+📂 Repository Structure
+
+exercicios_js.md → Main file containing all solved exercises with explanations.
+
+Each exercise includes:
+
+Solved code
+
+Example output in the console
+
+
+
+
+---
+
+📌 Included Exercises
+
+1. [FreeCodeCamp]FrankenSplice – Merge arrays without modifying the originals
+
+
+2. [FreeCodeCamp]Pyramid Generator (pyramid)
+
+
+3. [FreeCodeCamp]Slice and Splice Array Exercise
+
+
+4. [FreeCodeCamp]Reverse String
+
+
+5. [FreeCodeCamp]Factorial
+
+
+6. [FreeCodeCamp] Complete Student Report Card
+
+
+> New exercises will be added in sequence, maintaining the numbering.
+
+
+
+
+---
+
+📝 How to Contribute
+
+To add new exercises:
+
+1. Open the exercices_js.md file.
+
+
+2. Add the exercise in sequence with a title, description, and solution.
+
+
+3. Commit and push to GitHub with a clear message, for example:
+
+
+
+git add .
+git commit -m "Added Exercise X: Exercise Name"
+git push
+
+
+---
+
+📖 Tips
+
+Keep titles standardized:
+
+
+## [FreeCodeCamp]Exercise Name
+
+Add clear comments in the code to explain the logic.
+
+Test exercises in the console before adding to the file.
+
+
+
+---
+
+⚡ Contact
+
+This is a personal repository, but you can follow updates and new practices directly on GitHub.
+
+
+---
