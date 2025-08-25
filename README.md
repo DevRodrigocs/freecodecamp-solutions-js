@@ -44,6 +44,8 @@ Example output in the console
 
 6. [FreeCodeCamp] Complete Student Report Card
 
+7. [FreeCodeCamp] Build an Inventory Management Program
+
 
 > New exercises will be added in sequence, maintaining the numbering.
 
