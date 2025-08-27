@@ -44,7 +44,11 @@ Example output in the console
 
 6. [FreeCodeCamp] Complete Student Report Card
 
+
 7. [FreeCodeCamp] Build an Inventory Management Program
+
+
+8. [FreeCodeCamp] Build a Golf Score Translator
 
 
 > New exercises will be added in sequence, maintaining the numbering.
