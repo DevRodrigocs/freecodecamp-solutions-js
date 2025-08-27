@@ -51,6 +51,9 @@ Example output in the console
 8. [FreeCodeCamp] Build a Golf Score Translator
 
 
+9. [FreeCodeCamp] Build a Password Generator App
+
+
 > New exercises will be added in sequence, maintaining the numbering.
 
 
