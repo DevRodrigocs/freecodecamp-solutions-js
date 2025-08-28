@@ -54,6 +54,8 @@ Example output in the console
 9. [FreeCodeCamp] Build a Password Generator App
 
 
+10. [FreeCodeCamp] Design a Sum All Numbers Algorithm
+
 > New exercises will be added in sequence, maintaining the numbering.
 
 
