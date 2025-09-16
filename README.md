@@ -56,7 +56,12 @@ Example output in the console
 
 10. [FreeCodeCamp] Design a Sum All Numbers Algorithm
 
+
 11. [FreeCodeCamp] Build a Library Manager
+
+
+12. [FreeCodeCamp] Build a Book Organizer
+
 
 > New exercises will be added in sequence, maintaining the numbering.
 
