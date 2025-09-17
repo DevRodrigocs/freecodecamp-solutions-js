@@ -63,6 +63,9 @@ Example output in the console
 12. [FreeCodeCamp] Build a Book Organizer
 
 
+13. [FreeCodeCamp] Build a Symmetric Difference
+
+
 > New exercises will be added in sequence, maintaining the numbering.
 
 
