@@ -66,6 +66,10 @@ Example output in the console
 13. [FreeCodeCamp] Build a Symmetric Difference
 
 
+14. [FreeCodeCamp] Build a Symmetric Difference
+
+
+
 > New exercises will be added in sequence, maintaining the numbering.
 
 
