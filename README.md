@@ -27,22 +27,22 @@ Example output in the console
 
 📌 Included Exercises
 
-1. [FreeCodeCamp]FrankenSplice – Merge arrays without modifying the originals
+1. [FreeCodeCamp] Franken Splice
 
 
-2. [FreeCodeCamp]Pyramid Generator (pyramid)
+2. [FreeCodeCamp] Pyramid Generator
 
 
-3. [FreeCodeCamp]Slice and Splice Array Exercise
+3. [FreeCodeCamp] Slice and Splice
 
 
-4. [FreeCodeCamp]Reverse String
+4. [FreeCodeCamp] Reverse String
 
 
-5. [FreeCodeCamp]Factorial
+5. [FreeCodeCamp] Factorial
 
 
-6. [FreeCodeCamp] Complete Student Report Card
+6. [FreeCodeCamp] Build a Gradebook App
 
 
 7. [FreeCodeCamp] Build an Inventory Management Program
@@ -66,13 +66,25 @@ Example output in the console
 13. [FreeCodeCamp] Build a Symmetric Difference
 
 
-14. [FreeCodeCamp] Build a Symmetric Difference
+14. [FreeCodeCamp] Implement an HTML entity converter
+
+
+15. [FreeCodeCamp] Build a sum all primes calculator
+
+
+16. [FreeCodeCamp] Build a Storytelling App 🖼️ 
+
 
 
 
 > New exercises will be added in sequence, maintaining the numbering.
 
 
+---
+
+## 📷 Exercises with Screenshots  
+
+- [FreeCodeCamp] Build a Storytelling App 🖼️ 
 
 
 ---
