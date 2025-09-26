@@ -75,6 +75,10 @@ Example output in the console
 16. [FreeCodeCamp] Build a Storytelling App 🖼️ 
 
 
+16. [FreeCodeCamp] Build a Favorite Icon Toggler 🖼️ 
+
+
+
 
 
 > New exercises will be added in sequence, maintaining the numbering.
@@ -85,6 +89,8 @@ Example output in the console
 ## 📷 Exercises with Screenshots  
 
 - [FreeCodeCamp] Build a Storytelling App 🖼️ 
+
+- [FreeCodeCamp] Build a Favorite Icon Toggler 🖼️  
 
 
 ---
