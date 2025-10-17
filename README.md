@@ -75,8 +75,10 @@ Example output in the console
 16. [FreeCodeCamp] Build a Storytelling App 🖼️ 
 
 
-16. [FreeCodeCamp] Build a Favorite Icon Toggler 🖼️ 
+17. [FreeCodeCamp] Build a Favorite Icon Toggler 🖼️ 
 
+
+18. [FreeCodeCamp] Build a Card Counting Assistant
 
 
 
