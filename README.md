@@ -81,6 +81,8 @@ Example output in the console
 18. [FreeCodeCamp] Build a Card Counting Assistant
 
 
+19. [FreeCodeCamp] Build a Missing Letter Detector
+
 
 
 > New exercises will be added in sequence, maintaining the numbering.
