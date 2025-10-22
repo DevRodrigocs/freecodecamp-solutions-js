@@ -84,6 +84,8 @@ Example output in the console
 19. [FreeCodeCamp] Build a Missing Letter Detector
 
 
+19. [FreeCodeCamp] Build a Sentence Analyzer
+
 
 > New exercises will be added in sequence, maintaining the numbering.
 
