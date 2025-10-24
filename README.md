@@ -84,7 +84,10 @@ Example output in the console
 19. [FreeCodeCamp] Build a Missing Letter Detector
 
 
-19. [FreeCodeCamp] Build a Sentence Analyzer
+20. [FreeCodeCamp] Build a Sentence Analyzer
+
+
+21. [FreeCodeCamp] Build a Longest Word Finder App
 
 
 > New exercises will be added in sequence, maintaining the numbering.
